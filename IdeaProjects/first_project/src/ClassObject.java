@@ -12,6 +12,7 @@ public class ClassObject {
         Pranky.name = "Pankaj Sharma";
         Pranky.age=39;
         Pranky.gender="boy";
+        Pranky.weight=64;
         Pranky.handtype="left-handed";
         Pranky.WritingHand();
     }
